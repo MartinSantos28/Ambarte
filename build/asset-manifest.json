@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42300d1c.css",
+    "main.js": "/static/js/main.cc45fca2.js",
+    "static/media/about-background-image.png": "/static/media/about-background-image.1e84dae339ef9fc236ea.png",
+    "static/media/home-banner-image.png": "/static/media/home-banner-image.c95791bab29a171bcae6.png",
+    "static/media/pick-meals-image.png": "/static/media/pick-meals-image.d80805532e478714f6c3.png",
+    "static/media/delivery-image.png": "/static/media/delivery-image.6e0305d2c1ad449318ee.png",
+    "static/media/choose-image.png": "/static/media/choose-image.861f0357a59357e93162.png",
+    "static/media/home-banner-background.png": "/static/media/home-banner-background.585600da7ff85661555e.png",
+    "index.html": "/index.html",
+    "static/media/Logo.svg": "/static/media/Logo.7a58e6ef1a61118c0da56f11edf061d9.svg",
+    "main.42300d1c.css.map": "/static/css/main.42300d1c.css.map",
+    "main.cc45fca2.js.map": "/static/js/main.cc45fca2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.cc45fca2.js"
+  ]
+}
